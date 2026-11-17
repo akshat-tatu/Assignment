@@ -51,27 +51,27 @@ This creates 3 students, 2 courses, 4 enrollments and several grades.
 python main.py list students
 ```
 ```
-[1] Alice Johnson
-[2] Bob Smith
-[3] Carla Gomez
+[1] Sunil Chedi
+[2] Bhole Singh
+[3] Harry Sharma
 ```
 
 ```bash
 python main.py list courses --sort name
 ```
 ```
-CS101: Intro to CS
-MA201: Linear Algebra
+CS111: Intro to CS
+MTH111: Linear Algebra
 ```
 
 ```bash
 python main.py list enrollments --sort name
 ```
 ```
-Alice Johnson (1) - CS101: grades [95, 88], average 91.50
-Alice Johnson (1) - MA201: grades [91], average 91.00
-Bob Smith (2) - CS101: grades [72, 80], average 76.00
-Carla Gomez (3) - MA201: grades [85.5], average 85.50
+Sunil Chedi (1) - CS111: grades [95, 88], average 91.50
+Sunil Chedi (1) - MTH111: grades [91], average 91.00
+Bhole Singh (2) - CS111: grades [72, 80], average 76.00
+Harry Sharma (3) - MTH111: grades [85.5], average 85.50
 ```
 
 ```bash
