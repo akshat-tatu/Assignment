@@ -3,3 +3,21 @@
 2026-11-17 15:12:36,112 INFO gradebook.cli: Command list succeeded
 2026-11-17 15:12:36,248 INFO gradebook.storage: Loaded data from C:\Users\797013351\Downloads\gradebook\data\gradebook.json
 2026-11-17 15:12:36,249 INFO gradebook.cli: Command avg succeeded
+2026-11-17 15:46:42,210 INFO gradebook.storage: Loaded data from C:\Users\797013351\Downloads\gradebook\data\gradebook.json
+2026-11-17 15:46:42,210 INFO gradebook.cli: Command list succeeded
+2026-11-17 15:48:27,002 INFO gradebook.storage: Loaded data from C:\Users\797013351\Downloads\gradebook\data\gradebook.json
+2026-11-17 15:48:27,003 INFO gradebook.storage: Saved data to C:\Users\797013351\Downloads\gradebook\data\gradebook.json
+2026-11-17 15:48:27,003 INFO gradebook.cli: Command add-student succeeded
+2026-11-17 15:48:39,492 INFO gradebook.storage: Loaded data from C:\Users\797013351\Downloads\gradebook\data\gradebook.json
+2026-11-17 15:48:39,492 INFO gradebook.cli: Command list succeeded
+2026-11-17 15:52:13,096 INFO gradebook.storage: Loaded data from C:\Users\797013351\Downloads\gradebook\data\gradebook.json
+2026-11-17 15:52:13,098 INFO gradebook.storage: Saved data to C:\Users\797013351\Downloads\gradebook\data\gradebook.json
+2026-11-17 15:52:13,098 INFO gradebook.cli: Command add-course succeeded
+2026-11-17 15:55:03,246 INFO gradebook.storage: Loaded data from C:\Users\797013351\Downloads\gradebook\data\gradebook.json
+2026-11-17 15:55:03,247 ERROR gradebook.cli: Command enroll failed: Unknown course code: EE330
+2026-11-17 15:55:26,841 INFO gradebook.storage: Loaded data from C:\Users\797013351\Downloads\gradebook\data\gradebook.json
+2026-11-17 15:55:26,843 INFO gradebook.storage: Saved data to C:\Users\797013351\Downloads\gradebook\data\gradebook.json
+2026-11-17 15:55:26,843 INFO gradebook.cli: Command enroll succeeded
+2026-11-17 15:56:11,314 INFO gradebook.storage: Loaded data from C:\Users\797013351\Downloads\gradebook\data\gradebook.json
+2026-11-17 15:56:11,316 INFO gradebook.storage: Saved data to C:\Users\797013351\Downloads\gradebook\data\gradebook.json
+2026-11-17 15:56:11,316 INFO gradebook.cli: Command add-grade succeeded
