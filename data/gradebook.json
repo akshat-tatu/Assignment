@@ -1,0 +1,58 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice Johnson"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith"
+    },
+    {
+      "id": 3,
+      "name": "Carla Gomez"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CS101",
+      "title": "Intro to CS"
+    },
+    {
+      "code": "MA201",
+      "title": "Linear Algebra"
+    }
+  ],
+  "enrollments": [
+    {
+      "student_id": 1,
+      "course_code": "CS101",
+      "grades": [
+        95,
+        88
+      ]
+    },
+    {
+      "student_id": 1,
+      "course_code": "MA201",
+      "grades": [
+        91
+      ]
+    },
+    {
+      "student_id": 2,
+      "course_code": "CS101",
+      "grades": [
+        72,
+        80
+      ]
+    },
+    {
+      "student_id": 3,
+      "course_code": "MA201",
+      "grades": [
+        85.5
+      ]
+    }
+  ]
+}

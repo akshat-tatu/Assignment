@@ -1,0 +1,5 @@
+2026-11-17 15:12:35,973 INFO gradebook.storage: Saved data to C:\Users\797013351\Downloads\gradebook\data\gradebook.json
+2026-11-17 15:12:36,111 INFO gradebook.storage: Loaded data from C:\Users\797013351\Downloads\gradebook\data\gradebook.json
+2026-11-17 15:12:36,112 INFO gradebook.cli: Command list succeeded
+2026-11-17 15:12:36,248 INFO gradebook.storage: Loaded data from C:\Users\797013351\Downloads\gradebook\data\gradebook.json
+2026-11-17 15:12:36,249 INFO gradebook.cli: Command avg succeeded
