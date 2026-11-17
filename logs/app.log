@@ -21,3 +21,5 @@
 2026-11-17 15:56:11,314 INFO gradebook.storage: Loaded data from C:\Users\797013351\Downloads\gradebook\data\gradebook.json
 2026-11-17 15:56:11,316 INFO gradebook.storage: Saved data to C:\Users\797013351\Downloads\gradebook\data\gradebook.json
 2026-11-17 15:56:11,316 INFO gradebook.cli: Command add-grade succeeded
+2026-11-17 16:26:28,772 INFO gradebook.storage: Loaded data from C:\Users\797013351\Downloads\gradebook\data\gradebook.json
+2026-11-17 16:26:28,772 INFO gradebook.cli: Command gpa succeeded

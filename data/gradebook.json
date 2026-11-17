@@ -2,15 +2,15 @@
   "students": [
     {
       "id": 1,
-      "name": "Alice Johnson"
+      "name": "Sunil Chedi"
     },
     {
       "id": 2,
-      "name": "Bob Smith"
+      "name": "Bhole Singh"
     },
     {
       "id": 3,
-      "name": "Carla Gomez"
+      "name": "Harry Sharma"
     },
     {
       "id": 4,
@@ -19,22 +19,22 @@
   ],
   "courses": [
     {
-      "code": "CS101",
+      "code": "CS111",
       "title": "Intro to CS"
     },
     {
-      "code": "MA201",
+      "code": "MTH111",
       "title": "Linear Algebra"
     },
     {
-      "code": "EE3300",
+      "code": "EE330",
       "title": "Power System"
     }
   ],
   "enrollments": [
     {
       "student_id": 1,
-      "course_code": "CS101",
+      "course_code": "CS111",
       "grades": [
         95,
         88
@@ -42,14 +42,14 @@
     },
     {
       "student_id": 1,
-      "course_code": "MA201",
+      "course_code": "MTH111",
       "grades": [
         91
       ]
     },
     {
       "student_id": 2,
-      "course_code": "CS101",
+      "course_code": "CS111",
       "grades": [
         72,
         80
@@ -57,14 +57,14 @@
     },
     {
       "student_id": 3,
-      "course_code": "MA201",
+      "course_code": "MTH111",
       "grades": [
         85.5
       ]
     },
     {
       "student_id": 4,
-      "course_code": "EE3300",
+      "course_code": "EE330",
       "grades": [
         67
       ]
